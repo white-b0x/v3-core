@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ETCswap V3 Core"
+authors:
+  - name: "White B0x"
+    website: "https://etcswap.org"
+version: "1.0.1"
+date-released: "2026-02-04"
+url: "https://github.com/etcswap/v3-core"
+repository-code: "https://github.com/etcswap/v3-core"
+license: "BUSL-1.1"
+keywords:
+  - ethereum-classic
+  - etc
+  - defi
+  - amm
+  - clmm
+  - concentrated-liquidity
+abstract: >
+  ETCswap V3 Core - Concentrated Liquidity Market Maker (CLMM) for Ethereum Classic.
+  A fork of Uniswap V3 rebranded for the ETC ecosystem.
+references:
+  - type: software
+    title: "Uniswap V3 Core"
+    authors:
+      - name: "Uniswap Labs"
+    url: "https://github.com/Uniswap/v3-core"
+    notes: "Original source code"
